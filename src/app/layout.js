@@ -6,12 +6,12 @@ import Footer from "./components/Footer"; // Import Footer
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Moco Manga - Baca Manga Gratis",
+  title: "Sendy4 Manga - Baca Manga Gratis",
   description: "Website baca manga, manhwa, dan manhua terlengkap tanpa iklan. Koleksi manga terbaru dan terpopuler.",
   keywords: "manga, manhwa, manhua, baca manga gratis, manga online, manga indonesia",
-  authors: [{ name: "Moco Manga Team" }],
-  creator: "Moco Manga",
-  publisher: "Moco Manga",
+  authors: [{ name: "Sendy4 Manga Team" }],
+  creator: "Sendy4 Manga",
+  publisher: "Sendy4 Manga",
   formatDetection: {
     email: false,
     address: false,
